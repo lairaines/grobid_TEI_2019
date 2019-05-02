@@ -27,7 +27,8 @@ Regarding the corpus: extracted data is CC-BY.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
 
-##Cite this dataset
+## Cite this dataset
+
 Lucie Rondeau du Noyer. 2019. _Training and evaluation data for encoding Manuscript Sales Catalogues 
 with GROBID dictionaries_. Retrieved from https://github.com/lairaines/grobid_TEI_2019
 
