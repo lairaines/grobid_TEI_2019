@@ -24,17 +24,17 @@ Examples :
             <entry>
                 <num>350</num>
                 <pc>.</pc>
-                <form type="lemma">
+                <form>
                     <name>STANISLAS</name>
                     <pc>,</pc>
                     <desc>roi de Pologne N. 1677. M. 1766</desc>
                 </form>
-                <pc>.</pc>
+                <pc>. -</pc>
                 <sense>
-                    <sense>L. aut. sig. à madame de Boufïlers. Lunéville, 5 janvier 1741. 1 page in-4 Lettre d'amitié très-affectueuse</sense>
+                    <subSense>L. aut. sig. à madame de Boufïlers. Lunéville, 5 janvier 1741. 1 page in-4, 10</subSense>
                 </sense>
             </entry>
-            <pc>.</pc>
+            <pc>»</pc>
             <entry>
 
 ## Files
