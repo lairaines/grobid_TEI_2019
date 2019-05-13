@@ -16,6 +16,27 @@ PDF are OCRised with [Transkribus](https://transkribus.eu).
 
 The GROBID dictionaries model is trained on four different types of catalogues. For each type, 15 annotated pages are available : 10 as training data and 5 as evaluation data. 
 
+In compliance with the 
+PDF are OCRised with [recommendations of Grobid⁻Dictionaries] (https://github.com/MedKhem/grobid-dictionaries/wiki/How-to-Annotate%3F), the separators, whether there are composed of one or two punctuation signs, are tagged with the neutral label <pc>.
+  
+Examples : 
+
+            <entry>
+                <num>350</num>
+                <pc>.</pc>
+                <form type="lemma">
+                    <name>STANISLAS</name>
+                    <pc>,</pc>
+                    <desc>roi de Pologne N. 1677. M. 1766</desc>
+                </form>
+                <pc>.</pc>
+                <sense>
+                    <sense>L. aut. sig. à madame de Boufïlers. Lunéville, 5 janvier 1741. 1 page in-4 Lettre d'amitié très-affectueuse</sense>
+                </sense>
+            </entry>
+            <pc>.</pc>
+            <entry>
+
 ## Files
 Training data and evaluation data are available in `ToyData`
 
