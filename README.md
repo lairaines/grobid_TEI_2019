@@ -22,6 +22,12 @@ The training data are extracted from the following catalogs issues:
 + Auguste Laverdet, _Catalogue de lettres autographes et manuscrits_ : 1, 22.
 + Etienne Charavay, _Catalogue d’une intéressante collection de lettres autographes…_ (14 décembre 1908).
 
+The source of the training files are references in the file names using the following acronyms:
++ RDA_1 for Revue des Autographes, first series
++ RDA_2 for Revue des Autographes, second series
++ LAV for catalogues written by Auguste Laverdet
++ ETI for auction catalogues written by Etienne Charavay
+
 In compliance with the 
 PDF are OCRised with [recommendations of Grobid⁻Dictionaries] (https://github.com/MedKhem/grobid-dictionaries/wiki/How-to-Annotate%3F), the separators, whether there are composed of one or two punctuation signs, are tagged with the neutral label <pc>.
   
