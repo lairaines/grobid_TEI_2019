@@ -29,7 +29,7 @@ The source of the training files are references in the file names using the foll
 + ETI for auction catalogues written by Etienne Charavay
 
 In compliance with the 
-PDF are OCRised with [recommendations of Grobid⁻Dictionaries] (https://github.com/MedKhem/grobid-dictionaries/wiki/How-to-Annotate%3F), the separators, whether there are composed of one or two punctuation signs, are tagged with the neutral label <pc>.
+PDF are OCRised with [recommendations of Grobid⁻Dictionaries](https://github.com/MedKhem/grobid-dictionaries/wiki/How-to-Annotate%3F), the separators, whether there are composed of one or two punctuation signs, are tagged with the neutral label <pc>.
   
 Examples : 
 
