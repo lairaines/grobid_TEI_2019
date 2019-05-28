@@ -16,6 +16,12 @@ PDF are OCRised with [Transkribus](https://transkribus.eu).
 
 The GROBID dictionaries model is trained on four different types of catalogues. For each type, 15 annotated pages are available : 10 as training data and 5 as evaluation data. 
 
+The training data are extracted from the following catalogs issues:
++ Gabriel Charavay, _Revue des Autographes_, first series : 25, 35, 50, 80.
++ Gabrielle Charavay _Revue des Autographes_, second series : 24, 56.
++ Auguste Laverdet, _Catalogue de lettres autographes et manuscrits_ : 1, 22.
++ Etienne Charavay, _Catalogue d’une intéressante collection de lettres autographes…_ (14 décembre 1908).
+
 In compliance with the 
 PDF are OCRised with [recommendations of Grobid⁻Dictionaries] (https://github.com/MedKhem/grobid-dictionaries/wiki/How-to-Annotate%3F), the separators, whether there are composed of one or two punctuation signs, are tagged with the neutral label <pc>.
   
